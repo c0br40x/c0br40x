@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Secular+One&color=00F5FF&center=true&vCenter=true&lines=Soy+Alk4%2C+es+un+gusto+tenerte+aqui...;Programador+de+Python%2C+Javascript%2C+more;Sera+un+gusto+hablar+contigo%2C+contactame">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alk4Sec&color=156CAC&style=flat-square">
+</p>
