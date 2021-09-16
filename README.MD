@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alk4Sec&color=grey&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=Alk4Sec&color=red&style=flat-square">
 </p>
