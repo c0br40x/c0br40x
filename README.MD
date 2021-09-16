@@ -1,1 +1,1 @@
-<p align = "center">[I am Alk4.](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)(https://git.io/typing-svg)</p>
+<p align = "center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code+medium&color=4384F0&size=22&lines=Student+and+open-source+developer;Python%2C+Neovim+and+Arch+Linux;Nice+to+meet+you...!)](https://git.io/typing-svg)</p>
