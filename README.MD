@@ -3,7 +3,7 @@
 > alk4x@root:~$ ./alk4x
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/nishst/nishst/main/assets/cube.png" alt="alk4.png" width="190"/>
+<img align="left" src="https://raw.githubusercontent.com/alk4x/alk4x/main/assets/cube.png" alt="alk4.png" width="190"/>
 
 ```csharp
         alk4x@root
