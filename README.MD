@@ -11,6 +11,7 @@
     WM: BSPWM
     Shell: zsh
     Terminal: Kitty
+    Alias: Alk4x, Alk4, Alk4Sec
     Languages: C#, Bash, Python, Javascript
     Discord: Alk4x#0195
 ```
