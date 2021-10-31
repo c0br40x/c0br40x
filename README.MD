@@ -16,6 +16,6 @@
     Discord: Alk4x#0195
 ```
 ```zsh
-> alk4x@root:~$
+> alk4x@root:~$ echo
 ```
 ---
