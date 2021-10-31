@@ -18,8 +18,4 @@
 ```zsh
 > alk4x@root:~$ cowsay -f tux "I am Alk4x..."
 ```
----
-<div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alk4x&exclude_repo=eslint-config&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=alk4x&show_icons=true&include_all_commits=true&cache_seconds=3200&theme=dracula">
- </div>
+
