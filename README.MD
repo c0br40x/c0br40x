@@ -20,6 +20,6 @@
 ```
 ---
 <div align='center'>
-    <a href='https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'></a>
-    <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'></img>
+    <a href='https://github.com/chroline/well_app/releases'>
+    <img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
  </div>
