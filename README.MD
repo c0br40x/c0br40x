@@ -19,6 +19,5 @@
 > alk4x@root:~$ cowsay -f tux "I am Alk4x..."
 ```
 ---
-<p aling="center">
-    ![](https://komarev.com/ghpvc/?username=alk4sec&style=flat-square) `|` 
-</p>
+![](https://komarev.com/ghpvc/?username=alk4sec&style=flat-square)
+
