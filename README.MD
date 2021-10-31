@@ -15,11 +15,8 @@
     Languages: C#, Bash, Python, Javascript
     Discord: Alk4x#0195
 ```
-
----
-
-<img align="center" src="https://raw.githubusercontent.com/nishst/nishst/main/assets/cube.png?token=AQJEVOJEKGFTZ2NZ5G7KQOLBKEPKG" alt="alk4.png" width="200"/>
-
 ```zsh
 > alk4x@root:~$ cowsay -f tux "I am Alk4x..."
 ```
+
+---
