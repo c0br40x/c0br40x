@@ -21,5 +21,5 @@
 ---
 <div align='center'>
     <a href='https://github.com/ecriminal/ecriminal'>
-    <img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
+    <img src='https://img.shields.io/badge/Inspirado%20en%3A-ecriminal-critical'>
  </div>
