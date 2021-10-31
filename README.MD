@@ -20,6 +20,5 @@
 ```
 ---
 <div align='center'>
-    <a href='https://github.com/AlkaSec/Alk4Sec'>
-    <img src='https://img.shields.io/badge/Inspirado%20en%3A-ECriminal y Nish-critical'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alk4sec&exclude_repo=eslint-config&theme=dracula">
  </div>
