@@ -19,5 +19,6 @@
 > alk4x@root:~$ cowsay -f tux "I am Alk4x..."
 ```
 ---
-![](https://komarev.com/ghpvc/?username=alk4sec&style=flat-square)
-
+<p align="center">
+    [![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)]
+<p>
