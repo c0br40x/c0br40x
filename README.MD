@@ -20,10 +20,6 @@
 ```
 ---
 <div align='center'>
-    <a href='https://github.com/ecriminal/ecriminal'>
-    <img src='https://img.shields.io/badge/Inspirado%20en%3A-ECriminal-critical'>
-    </a>
-    <a href="https://github.com/nishst/nishst"/>
-    <img src="https://img.shields.io/badge/Tambien%3A-Nish-blue"/>
-    </a>
+    <a href='https://github.com/AlkaSec/Alk4Sec'>
+    <img src='https://img.shields.io/badge/Inspirado%20en%3A-ECriminal y Nish-critical'>
  </div>
