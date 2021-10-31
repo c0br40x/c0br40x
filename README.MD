@@ -18,5 +18,5 @@
 ```zsh
 > alk4x@root:~$ cowsay -f tux "I am Alk4x..."
 ```
-So
 ---
+<center>![](https://komarev.com/ghpvc/?username=alk4sec&style=flat-square) `|` </center>
