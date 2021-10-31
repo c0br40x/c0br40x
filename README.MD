@@ -11,8 +11,6 @@
     WM: BSPWM
     Shell: zsh
     Terminal: Kitty
-    CPU: Intel Caleron
-    Alias: Alk4/Alk4x/Alk4Sec
     Languages: C#, Bash, Python, Javascript
     Discord: Alk4x#0195
 ```
