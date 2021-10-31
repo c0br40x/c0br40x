@@ -15,4 +15,7 @@
     Languages: C#, Bash, Python, Javascript
     Discord: Alk4x#0195
 ```
+```zsh
+> alk4x@root:~$
+```
 ---
