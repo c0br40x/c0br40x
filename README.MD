@@ -2,7 +2,7 @@
 > ./alk4x
 ```
 
-<img align="left" src="https://banner2.cleanpng.com/20180414/req/kisspng-arch-linux-installation-btrfs-computer-software-archery-5ad1b76bb2cdd1.7435733015236934197324.jpg" alt="alk4.png" width="200"/>
+<img align="left" src="https://raw.githubusercontent.com/nishst/nishst/main/assets/cube.png?token=AQJEVOJEKGFTZ2NZ5G7KQOLBKEPKG" alt="alk4.png" width="200"/>
 
 ```csharp
     alk4x@root
