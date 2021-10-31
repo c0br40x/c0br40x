@@ -16,6 +16,6 @@
     Discord: Alk4x#0195
 ```
 ```zsh
-> alk4x@root:~$ cowsay -f tux I am Alk4x...
+> alk4x@root:~$ cowsay -f tux "I am Alk4x..."
 ```
 ---
