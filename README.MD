@@ -21,3 +21,9 @@
 ```
 
 ---
+
+<div align="center">
+        <a href="https://github.com/nishst">
+        <img src="https://img.shields.io/badge/Insipred%3A-Nishst-informational"/>
+        </a>
+</div>
